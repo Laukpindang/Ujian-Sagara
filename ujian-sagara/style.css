@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    padding: 0;
+    
+}
+
+.top{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.menu{
+    display: flex;
+    size: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.garis{
+    margin-left: 90px;
+    margin-right: 500px;
+}
+
+.logo{
+    margin-right: 500px;
+    
+}
+
+.middle{
+    text-align: center;
+    font-weight: bold;
+}
+
+.middle img{
+    margin-bottom: 80px;
+    width: 1349px;
+}
+
+.content{
+    margin-top: 74px;
+}
+
+.item{
+    width: 279px;
+    height: 244px;
+    padding: 0px 29px;
+}
+
+.cnt-atas{
+    display: flex;
+    padding-bottom: 119px;
+}
+
+.cnt-bawah{
+    display: flex;
+    padding-bottom: 119px;
+}
+
+.price{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.off{
+    color: #367517;
+}
+
+.contact{    
+    background-color:#FDE2CA;
+    margin: 35px 70px;
+    height: 200px;
+    display: flex;
+}
+
+.content .text{
+    position: absolute;
+}
+
+.help{
+    padding-top: 36px;
+    margin-left: 132px;
+    padding-bottom: 12px;
+    font-size: 25px;
+}
+
+.mail{
+    margin-left: 132px;
+    font-size: 14px;
+}
+
+.button{
+    margin-left: 132px;
+    height: 20px;
+    width: 170px;
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+    background: #222427;
+    border-radius: 5px;
+    color: white;
+}
+
+.logo-help{
+    margin-top: 25px;
+    margin-left: 424px;
+}
+
+.footer{
+    color: white;
+    padding-top: 66px;
+    padding-left: 95px;
+    background-color: black;
+    width: 1249px;
+    height: 360px;
+}
+
+.footer img{
+    margin-bottom: 68px;
+}
+
+.footer-title{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer-text{
+    display: flex;
+}
+
+.info{
+    padding-right: 190px;
+}
+
+.order{
+    padding-right: 190px;
+}
+
+.copyright{
+    text-align: center;
+    padding: 26px 0px;
+    margin-top: 1px;
+    background-color: black;
+    color: white;
+}
